@@ -44,4 +44,5 @@ Here are the skills Google wants its tech talent to master, complete with online
 
 11. Learn parallel programming. Because being able to carry out tons of computations at the same time is super powerful. The University of Illinois can help you out.
 
+
 But Google doesn't just look at skills in its select candidates — the search giant seeks specific personality qualities, too.
